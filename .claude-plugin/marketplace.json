@@ -1,0 +1,14 @@
+{
+  "name": "monjil404",
+  "description": "Claude Code plugins by Monjil404",
+  "owner": { "name": "Monjil404", "url": "https://github.com/Monjil404" },
+  "plugins": [
+    {
+      "name": "google-seo-rules",
+      "source": "./plugins/google-seo-rules",
+      "description": "SEO rules taken from Google Search Central plus a site audit script",
+      "category": "development",
+      "tags": ["seo", "google", "schema", "search-console"]
+    }
+  ]
+}

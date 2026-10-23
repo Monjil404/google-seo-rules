@@ -1,0 +1,11 @@
+{
+  "name": "google-seo-rules",
+  "displayName": "Google SEO Rules",
+  "version": "1.0.0",
+  "description": "SEO rules taken from Google Search Central (read in full, Oct 2026) and checked against a common 2026 SEO / AI-SEO checklist, plus a zero-dependency site audit script.",
+  "author": { "name": "Monjil404", "url": "https://github.com/Monjil404" },
+  "homepage": "https://github.com/Monjil404/google-seo-rules",
+  "repository": "https://github.com/Monjil404/google-seo-rules",
+  "license": "MIT",
+  "keywords": ["seo", "google", "search-console", "structured-data", "schema", "sitemap", "core-web-vitals", "ai-seo", "aeo", "hreflang"]
+}
